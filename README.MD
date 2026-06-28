@@ -11,14 +11,16 @@ This project helps users maintain a clean directory structure by automatically s
 
 ### 1. Before Running the Program
 Here is how cluttered the folder looks initially with documents, images, and archives mixed together:
-
+![Cluttered Folder Before Setup](file%20organizer/Images/folder%20before%20smart%20file%20organiser.png)
 
 ### 2. Program Execution (In Progress)
 When you launch the program and input your folder path, the terminal instantly tracks and displays each file migration:
+![Terminal Processing Activity](file%20organizer/Images/smart%20file%20in%20action.png)
 
 
 ### 3. After Organization Complete
 The program cleanly creates and distributes the scattered items into dedicated target subfolders automatically:
+![Clean Folder After Sorting](file%20organizer/Images/folder%20after%20smart%20file%20organiser.png)
 
 
 ---
