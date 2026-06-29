@@ -47,4 +47,5 @@ gcc main.c -o smart_file_organizer
 1. Run the compiled executable.
 2. Type or paste your full directory path when prompted.
    * *Example:* `C:\Users\USER\Desktop\ALL my Folders`
+  * *Example:* `C:\Users\USER\Downloads\SFML`
 3. Press **Enter** to see your files get organized instantly!
